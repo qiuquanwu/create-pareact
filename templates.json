@@ -1,0 +1,10 @@
+{
+    "tpl": [
+        {   
+            "name":"pareact",
+            "url":"https://github.com/qiuquanwu/pareact",
+            "branch":"master",
+            "describe":"基于parcel打包react,react-router,react-redux,stylus的项目"
+        }
+    ]
+}
