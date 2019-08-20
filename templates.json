@@ -2,7 +2,13 @@
     "tpl": [
         {   
             "name":"pareact",
-            "url":"https://github.com/qiuquanwu/pareact",
+            "url":"https://gitee.com/isfive/pareact.git",
+            "branch":"master",
+            "describe":"基于parcel打包react,react-router,react-redux,stylus的项目"
+        },
+        {   
+            "name":"pareact",
+            "url":"https://github.com/qiuquanwu/pareact.git",
             "branch":"master",
             "describe":"基于parcel打包react,react-router,react-redux,stylus的项目"
         }

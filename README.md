@@ -4,7 +4,9 @@
 #### 安装
 ```
 
-git clone https://github.com/qiuquanwu/create-pareact
+git clone https://github.com/qiuquanwu/create-pareact.git
+或者
+git clone https://gitee.com/isfive/create-pareact.git
 
 cd create-pareact
 
