@@ -4,13 +4,13 @@
             "name":"pareact",
             "url":"https://gitee.com/isfive/pareact.git",
             "branch":"master",
-            "describe":"基于parcel打包react,react-router,react-redux,stylus的项目"
+            "describe":"react,react-router,react-redux,stylus"
         },
         {   
-            "name":"pareact",
-            "url":"https://github.com/qiuquanwu/pareact.git",
-            "branch":"master",
-            "describe":"基于parcel打包react,react-router,react-redux,stylus的项目"
+            "name":"pareact-antd",
+            "url":"https://gitee.com/isfive/pareact.git",
+            "branch":"antd",
+            "describe":"react,react-router,react-redux,stylus,antd"
         }
     ]
 }

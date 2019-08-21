@@ -1,7 +1,8 @@
 ## 简介
  用于创建基于parcel打包工具的react项目脚手架
 ## 使用方法
-#### 安装
+#### 1.安装
+
 ```
 
 git clone https://github.com/qiuquanwu/create-pareact.git
@@ -14,7 +15,7 @@ npm i
 
 npm link
 ```
-#### 查看模板列表
+#### 2.查看模板列表
 ```
 pareact l 或者 pareact list
 ```
@@ -27,7 +28,7 @@ $ pareact l
 -模板名称：pareact
 -模板描述：基于parcel打包react,react-router,react-redux,stylus的项目
 ```
-#### 初始化项目
+#### 3.初始化项目
 ```
 pareact i 或者 pareact init
 ```
@@ -47,8 +48,29 @@ $ pareact i
 
  正在生成项目,请稍后...
 
+
 ```
-#### 获取版本号
+#### 4.帮助信息
+
+```
+pareact -h
+```
+打印结果如下：
+```
+Administrator@HC2BRAWHM5PLI0M MINGW64 ~/Desktop/pareact (master)
+$ pareact -h
+Usage: pareact <command>
+
+Options:
+  -V, --version  output the version number
+  -h, --help     output usage information
+
+Commands:
+  list|l         列出所有模板
+  init|i         生成新项目
+
+```
+#### 5.获取版本号
 
 ```
 pareact -V 或者 pareact --version
